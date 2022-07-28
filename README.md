@@ -1,7 +1,6 @@
 
 # Alura Sticker 
 
-Projeto de imersão backend com a linguagem Java, visa criar um app que irá consumir dados de uma API que retorna a classificação de filmes e séries, ao fim do projeto pretende criar stickers personalizado com indicação de filmes/séries para enviar por whatsapp.
 
 | 🪧 Vitrine.Dev |     |
 | -------------  | --- |
@@ -66,7 +65,7 @@ Projeto de imersão backend com a linguagem Java, visa criar um app que irá con
   
  ## 5º Dia
    - [x] Realizar deploy na Heroku
-   - [x] link - https://linguagens-imersao-api.herokuapp.com/linguagens
+   - [x] link - https://lpetillo-linguagens-app.herokuapp.com/linguagens
 
 ### ✅ Resultado do 5º dia
 ![resultado_final](https://user-images.githubusercontent.com/57668890/180580712-0b48693e-8294-4256-b3b4-b1e19163f537.png)

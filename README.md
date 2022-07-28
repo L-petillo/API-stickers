@@ -2,7 +2,7 @@
 # Alura Sticker 
 
 
-| 🪧 Vitrine.Dev |     |
+| 🪧 Vitrine.Dev | L_petillo    |
 | -------------  | --- |
 | ✨ Nome        | Alura Sticker
 | 🏷️ Tecnologias | Java, Spring, MongoDB, Heroku, Git
